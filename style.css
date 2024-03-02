@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    width: 1000px;
+    height: 1763px;
+    background: #fff;
+    padding: 42px 29px 101px 37px;
+}
+
+.title {
+    color: black;
+    font-size: 32px;
+    margin-bottom: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.desc {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+    margin-bottom: 24px;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: black;
+    font-family: inter;
+    font-size: 28px;
+    margin-bottom: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.text {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+}
+
+
+
+.txt {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: italic;
+
+
+}
+
+.subject {
+    color: black;
+    font-size: 20px;
+    margin-bottom: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+
+.info {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+}
+
+.author {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+}
+
+.link {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: italic;
+}
+
+.information {
+    color: black;
+    font-size: 16px;
+    margin-bottom: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.section {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+}
+
+.visible {
+    color: black;
+    font-size: 12px;
+    margin-bottom: 22px;
+    font-style: normal;
+    margin-bottom: 24px;
+    font-weight: bold;
+}
+
+.list {
+    color: rgb(8, 8, 84);
+    font-size: 12px;
+
+}
+
+.social {
+    color: black;
+}
